@@ -12,7 +12,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-color: var(--Transparent-white);
+  background-color: var(--Very-light-gray);
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -47,13 +47,11 @@ p {
 
 @font-face {
   font-family: "Big Shoulders Display";
-  src: url(../../assets/fonts/BigShouldersDisplay-Bold.woff) format("woff");
-  src: url(../../assets/fonts/BigShouldersDisplay-Bold.woff2) format("woff2");
+  src: url(../../assets/fonts/BigShouldersDisplay-Bold.woff) format("woff"), url(../../assets/fonts/BigShouldersDisplay-Bold.woff2) format("woff2");
 }
 @font-face {
   font-family: "Lexend Deca Regular";
-  src: url(../../assets/fonts/LexendDeca-Regular.woff) format("woff");
-  src: url(../../assets/fonts/LexendDeca-Regular.woff2) format("woff2");
+  src: url(../../assets/fonts/LexendDeca-Regular.woff) format("woff"), url(../../assets/fonts/LexendDeca-Regular.woff2) format("woff2");
 }
 main {
   height: 500px;
@@ -141,4 +139,4 @@ main {
 }
 .card__button-dark-cyan {
   color: var(--Very-dark-cyan);
-}
+}/*# sourceMappingURL=style.css.map */
