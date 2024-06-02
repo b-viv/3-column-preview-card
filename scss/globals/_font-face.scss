@@ -1,11 +1,15 @@
 @font-face {
     font-family: 'Big Shoulders Display';
+    font-weight: bold;
+    font-style: normal;
     src: url(../../assets/fonts/BigShouldersDisplay-Bold.woff) format('woff'),
         url(../../assets/fonts/BigShouldersDisplay-Bold.woff2) format('woff2');
 }
 
 @font-face {
     font-family: 'Lexend Deca Regular';
+    font-weight: normal;
+    font-style: normal;
     src: url(../../assets/fonts/LexendDeca-Regular.woff) format('woff'),
         url(../../assets/fonts/LexendDeca-Regular.woff2) format('woff2');
 }
