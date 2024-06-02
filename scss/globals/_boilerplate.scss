@@ -1,0 +1,26 @@
+@use '../util/' as u;
+
+html {
+    box-sizing: border-box;
+    font-size: 0.938rem;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--Transparent-white);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @include u.sm-breakpoint {
+        align-items: flex-start;
+    }
+}

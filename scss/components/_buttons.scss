@@ -1,0 +1,32 @@
+@use '../util/' as u;
+
+.card__button {
+    font-family: u.$font-lexend-deca;
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: var(--Very-light-gray);
+    border-style: none;
+    padding: 15px 30px;
+    border-radius: 25px;
+
+    &:hover {
+        background-color: transparent;
+        color: var(--Very-light-gray);
+        border: 2px solid var(--Very-light-gray);
+        cursor: pointer;
+    }
+}
+
+.card__button {
+    &-orange {
+        color: var(--Bright-orange);
+    }
+
+    &-cyan {
+        color: var(--Dark-cyan);
+    }
+
+    &-dark-cyan {
+        color: var(--Very-dark-cyan);
+    }
+}

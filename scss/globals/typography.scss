@@ -1,0 +1,14 @@
+@use '../util/' as u;
+
+h1 {
+    color: var(--Very-light-gray);
+    font-family: u.$font-big-shoulder-display;
+    font-size: 2.6rem;
+    text-transform: uppercase;
+}
+
+p {
+    color: var(--Transparent-white);
+    font-family: u.$font-lexend-deca;
+    line-height: 1.67rem;
+}

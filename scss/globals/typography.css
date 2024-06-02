@@ -1,0 +1,12 @@
+h1 {
+  color: var(--Very-light-gray);
+  font-family: "Big Shoulders Display", sans-serif;
+  font-size: 2.6rem;
+  text-transform: uppercase;
+}
+
+p {
+  color: var(--Transparent-white);
+  font-family: "Lexend Deca Regular", sans-serif;
+  line-height: 1.67rem;
+}/*# sourceMappingURL=typography.css.map */
