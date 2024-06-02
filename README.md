@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://your-solution-url.com)
-- Live Site URL: [Link](https://b-viv.github.io/3-preview-card-component/)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/3-column-prewiev-card-component-l17LfAjrnD)
+- Live Site URL: [Link](https://b-viv.github.io/3-column-preview-card/)
 
 ## My process
 
